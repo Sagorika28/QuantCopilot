@@ -64,7 +64,7 @@ A lightweight portfolio analytics sandbox built directly into the app.
 
 ---
 
-### 📄 5. Export Investment Memo (PDF)
+### 5. Export Investment Memo (PDF)
 
 Whatever the LLM writes can be exported as a clean, readable **PDF memo**.  
 Perfect for sharing with teammates or dropping into presentations.
