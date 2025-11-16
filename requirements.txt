@@ -4,3 +4,5 @@ numpy
 plotly
 fpdf2
 databricks-sql-connector
+databricks-sdk
+pyarrow
